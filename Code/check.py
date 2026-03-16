@@ -26,7 +26,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # đọc ảnh
-img = cv2.imread("image.png")
+img = cv2.imread(r"F:/ThuHa/Computer Vision/ComputerVision_Study/image/image.png")
 
 # chuyển BGR -> RGB (vì matplotlib dùng RGB)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
