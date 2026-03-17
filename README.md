@@ -61,3 +61,4 @@ Có 3 cấp độ xử lý ảnh số, gồm:
 | output: ảnh    | output: Thuộc tính (biên, đường viền,...) | output: Hiểu ảnh|
 | làm sạch ảnh chứa một số ký tự | tách (phân đoạn) văn bản khỏi nền và nhận dạng các ký tự lẻ | hiểu nội dung văn bản |
 | ![alt text](image/mucthap.jpg) | ![alt text](image/muctrung.jpg) | ![alt text](image/muccao.jpg) |
+
