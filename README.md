@@ -20,6 +20,27 @@ Name: opencv-python
 Version: 4.13.0.90
 ```
 
+### Nhận diện ảnh bằng Camera
+
+**Camera -> đọc frame -> xử lý -> hiển thị -> lặp lại**
+
+```
+cv2.VideoCapture(<0/1>)
+```
+Trong đó: 
+        0 : camera mặc định
+        1 : sử dụng camera ngoài
+
+Gọi ```.read()```
+```
+ret, frame = cap.read()
+```
+Trong đó: 
+        ret : True/False -> có đọc được hay không?
+        frame : ảnh (NumPy array)
+
+
+
 ## XỬ LÝ ẢNH SỐ
 
 ### Giới thiệu 
