@@ -1,0 +1,13 @@
+path: F:/ThuHa/Computer Vision/ComputerVision_Study/Code/dataset
+
+train: images/train
+val: images/train
+
+names:
+  0: person
+  1: cellphone
+  2: laptop
+  3: bottle
+  4: bowl
+  5: cup
+  6: chair

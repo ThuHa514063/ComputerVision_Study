@@ -1,0 +1,5 @@
+chai_nuoc
+dien_thoai
+laptop
+coc_nuoc
+bat

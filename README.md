@@ -83,3 +83,10 @@ Có 3 cấp độ xử lý ảnh số, gồm:
 | làm sạch ảnh chứa một số ký tự | tách (phân đoạn) văn bản khỏi nền và nhận dạng các ký tự lẻ | hiểu nội dung văn bản |
 | ![alt text](image/mucthap.jpg) | ![alt text](image/muctrung.jpg) | ![alt text](image/muccao.jpg) |
 
+```
+python -m labelImg.labelImg
+```
+
+```
+python -m labelImg.labelImg "F:/ThuHa/Computer Vision/ComputerVision_Study/Code/dataset/images/train" "F:/ThuHa/Computer Vision/ComputerVision_Study/Code/dataset/classes.txt"
+```
